@@ -334,23 +334,98 @@ Microsoft-Entra-ID-Homelab/
 ├── README.md
 ├── LICENSE
 ├── requirements.txt
+├── notes/
+│   └── Entra_ID_General_Theory_Notes.pdf
 └── screenshots/
     ├── B-Users/
+    │   ├── B01-all-users-list.png
+    │   ├── B02-user-properties.png
+    │   ├── B03-user-account-tab.png
+    │   ├── B04-bulk-operations.png
+    │   ├── B05-per-user-mfa.png
+    │   ├── B06-user-blocked.png
+    │   ├── B07-deleted-users.png
+    │   └── B08-revoke-sessions.png
     ├── C-Groups/
+    │   ├── C01-all-groups-list.png
+    │   ├── C02-dynamic-group-rule.png
+    │   ├── C03-group-expiration-policy.png
+    │   ├── C04-group-based-licensing.png
+    │   └── C05-group-owners.png
     ├── D-Auth-Methods/
+    │   ├── D01-auth-methods-list.png
+    │   ├── D02-authenticator-enabled.png
+    │   ├── D03-sms-disabled.png
+    │   ├── D04-tap-enabled.png
+    │   ├── D05-tap-generated.png
+    │   ├── D06-registration-campaign.png
+    │   └── D07-user-registration-details.png
     ├── E-Conditional-Access/
+    │   ├── E01-ca-policies-list.png
+    │   ├── E02-ca005-compliant-device.png
+    │   ├── E03-ca006-signin-frequency.png
+    │   └── E04-signin-log-ca-evaluation.png
     ├── F-SSPR/
+    │   ├── F01-sspr-properties.png
+    │   ├── F02-sspr-auth-methods.png
+    │   ├── F03-sspr-registration.png
+    │   ├── F04-sspr-notifications.png
+    │   └── F05-sspr-user-experience.png
     ├── G-PIM/
+    │   ├── G01-pim-ga-active-assignments.png
+    │   ├── G02-approve-requests.png
+    │   ├── G03-Approving-request.png
+    │   ├── G04-Approved-assignment-request.png
+    │   ├── G05-pim-eligible-assignment-bob.png
+    │   ├── G06-pim-role-settings-ga.png
+    │   ├── G07-pim-my-roles.png
+    │   └── G08-pim-audit-history.png
     ├── H-Identity-Protection/
+    │   ├── H01-ID-Protection-Dashboard.png
+    │   ├── H02-risky-signin-alice.png
+    │   ├── H03-risk-detection-anonymous-ip.png
+    │   ├── H04-risk-detection-signin-events-alice.png
+    │   ├── H05-risky-signin.png
+    │   ├── H06-risky-user.png
+    │   ├── H07-signin-risk-level-medium-high.png
+    │   ├── H08-user-risk-password-change.png
+    │   └── H09-risk-level-chart.png
     ├── I-Enterprise-Apps/
+    │   ├── I01-saml-configuration.png
+    │   ├── I02-permissions-user-read.png
+    │   ├── I03-usage-insights-enterprise-applications.png
+    │   ├── I04-enterprise-apps-list.png
+    │   ├── I05-user-assignment.png
+    │   └── I06-singlesignon-SAML-certificates.png
     ├── J-App-Registrations/
+    │   ├── J01-app-registrations-list.png
+    │   ├── J02-app-overview.png
+    │   ├── J03-certificates-secrets.png
+    │   ├── J04-api-permissions.png
+    │   └── J05-app-registration-powershell.png
     ├── K-B2B/
+    │   ├── K01-guest-user-invited.png
+    │   ├── K02-external-collaboration-settings.png
+    │   ├── K03-collaboration-restrictions.png
+    │   └── K04-access-review-created.png
     ├── L-Entra-Connect/
+    │   ├── L01-upn-suffix-added.png
+    │   └── L02-upn-updated-powershell.png
     ├── M-Access-Reviews/
+    │   ├── M01-ITSecurity-access-review-overview.png
+    │   ├── M02-Identity-governance-access-review-dashboard.png
+    │   ├── M03-access-review-approval-status.png
+    │   ├── M04-access-review-members-approve-deny.png
+    │   ├── M05-access-review-reviewed-approved.png
+    │   └── M06-access-review-notification-mail.png
     └── N-Monitoring/
+        ├── N01-Monitoring and health-sign in logs.png
+        ├── N02-sign in logs-details.png
+        ├── N03-monitoring and health-audit logs.png
+        ├── N04-audit logs-details.png
+        ├── N05-workbook-usage and insights.png
+        └── N06-diagonistic setting-dashboard.png
 ```
-
----
 
 ## About
 
