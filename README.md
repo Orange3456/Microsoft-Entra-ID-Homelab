@@ -42,7 +42,7 @@ A comprehensive Microsoft Entra ID deep dive homelab built hands-on on a live Mi
 | Plan | Microsoft 365 Business Premium + Entra ID P2 Trial |
 | Tenant | praveenlab2026.onmicrosoft.com |
 | Users | 22 users across IT, Finance, HR, Sales, Marketing, Mumbai and Delhi sites |
-| Admin Account | PRAVEENKUMARSAMINATHAN@praveenlab2026.onmicrosoft.com |
+| Admin Account | Praveenkumar.Saminathan@praveenlab2026.onmicrosoft.com |
 | Entra ID P1 | Included in Business Premium - Conditional Access, Dynamic Groups, SSPR |
 | Entra ID P2 | 30-day free trial - PIM, Identity Protection, Access Reviews |
 | On-premises AD | labshandson.lan - Windows Server 2025 Domain Controller |
