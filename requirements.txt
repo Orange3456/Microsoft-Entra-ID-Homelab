@@ -1,0 +1,30 @@
+# Microsoft Entra ID Deep Dive Homelab
+# Requirements and Prerequisites
+
+# Tenant Requirements
+Microsoft 365 Business Premium Trial (or paid)
+Microsoft Entra ID P1 - included in Business Premium
+Microsoft Entra ID P2 - 30-day free trial (for PIM and Identity Protection)
+
+# Software Requirements
+Microsoft Edge or Google Chrome (latest version)
+PowerShell 5.1 or later
+Windows 10/11
+
+# PowerShell Modules
+Microsoft.Graph (Install-Module Microsoft.Graph)
+ExchangeOnlineManagement (Install-Module ExchangeOnlineManagement)
+
+# Admin Portals Used
+entra.microsoft.com
+admin.microsoft.com
+security.microsoft.com
+intune.microsoft.com
+
+# Lab Environment
+VMware Workstation (for on-premises AD lab - Chapter 12)
+Windows Server 2025 Domain Controller (DC01 - labshandson.lan)
+OPNsense Firewall VM (for network connectivity)
+
+# Additional Tools
+Tor Browser (for Chapter 8 - Identity Protection risk detection simulation)
